@@ -1,0 +1,10 @@
+touch shelly.txt
+nano todo2.solution
+cat shelly.txt
+cat shelly.txt > shellycopy.txt
+mv shellycopy.txt stevenrules.txt
+cat shelly.txt stevenrules.txt >> everything.txt
+echo "I like pina coladas and getting caught in the rain" >> everything.txt
+ls *.txt >> textfileslist.txt
+
+

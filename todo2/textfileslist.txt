@@ -1,0 +1,3 @@
+everything.txt
+shelly.txt
+stevenrules.txt
